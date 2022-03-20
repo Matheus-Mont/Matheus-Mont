@@ -5,9 +5,12 @@
 
 - ⚡ Fun fact **I'm also a biotechnologist!**
 
-<img height="130em"  src="https://github-readme-stats.vercel.app/api?username=Matheus-Mont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Mont&layout=compact&langs_count=7&theme=dracula"/>
-
+<div>
+     <a href="https://github.com/Matheus-Mont">
+    <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=Matheus-Mont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Mont&layout=compact&langs_count=7&theme=dracula"/>
+</div
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheusoliveiramonteiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusoliveiramonteiro" height="30" width="40" /></a>

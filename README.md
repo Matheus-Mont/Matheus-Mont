@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 - 💬 Ask me about **react, javascript, python**
 
-- 📫 How to reach me **mathspa98@gmail.com**
+- 📫 How to reach me **dev.matheusmonteiro@gmail.com**
 
 - ⚡ Fun fact **I'm also a biotechnologist!**
 
